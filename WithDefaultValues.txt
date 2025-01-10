@@ -1,0 +1,140 @@
+If you want to select your own Players Enter Yes : 2
+By default the Player 1 is 'X' & Player 2 is 'O'
+Who want's to start first
+Choose 1 if Player 1 want's to start first or Choose 2 if Player 2 want's to play first : 
+1
+Player 1 is starting the game
+Start the Game!!!
+  |  |  |
+  |  |  |
+  |  |  |
+Enter player X :1 0
+  |  |  |
+X |  |  |
+  |  |  |
+Enter player O :2 0
+  |  |  |
+X |  |  |
+O |  |  |
+Enter player X :1 1
+  |  |  |
+X |X |  |
+O |  |  |
+Enter player O :0 0
+O |  |  |
+X |X |  |
+O |  |  |
+Enter player X :1 2
+O |  |  |
+X |X |X |
+O |  |  |
+Player X won, game over.
+If yoy want to play again Press 0 or press anything to Exit :0
+The game restarted, Start Playing
+Start the Game!!!
+  |  |  |
+  |  |  |
+  |  |  |
+Enter player O :1 0
+  |  |  |
+O |  |  |
+  |  |  |
+Enter player X :1 0
+Player O choosen this cell already choose another
+  |  |  |
+O |  |  |
+  |  |  |
+Enter player X :1 2
+  |  |  |
+O |  |X |
+  |  |  |
+Enter player O :0 0
+O |  |  |
+O |  |X |
+  |  |  |
+Enter player X :1 2
+Player O choosen this cell already choose another
+O |  |  |
+O |  |X |
+  |  |  |
+Enter player X :0 2
+O |  |X |
+O |  |X |
+  |  |  |
+Enter player O :2 0
+O |  |X |
+O |  |X |
+O |  |  |
+Player O won, game over.
+If yoy want to play again Press 0 or press anything to Exit :0
+The game restarted, Start Playing
+Start the Game!!!
+  |  |  |
+  |  |  |
+  |  |  |
+Enter player X :1 1
+  |  |  |
+  |X |  |
+  |  |  |
+Enter player O :2 2
+  |  |  |
+  |X |  |
+  |  |O |
+Enter player X :0 1
+  |X |  |
+  |X |  |
+  |  |O |
+Enter player O :2 1
+  |X |  |
+  |X |  |
+  |O |O |
+Enter player X :2 0
+  |X |  |
+  |X |  |
+X |O |O |
+Enter player O :0 2
+  |X |O |
+  |X |  |
+X |O |O |
+Enter player X :0 0
+X |X |O |
+  |X |  |
+X |O |O |
+Enter player O :1 0
+X |X |O |
+O |X |  |
+X |O |O |
+Enter player X :1 2
+X |X |O |
+O |X |X |
+X |O |O |
+Game Tie
+If yoy want to restart Press 0 or Press anything to End and Exit :0
+The game restarted, Start Playing
+Start the Game!!!
+  |  |  |
+  |  |  |
+  |  |  |
+Enter player O :1 1
+  |  |  |
+  |O |  |
+  |  |  |
+Enter player X :0 1
+  |X |  |
+  |O |  |
+  |  |  |
+Enter player O :1 0
+  |X |  |
+O |O |  |
+  |  |  |
+Enter player X :2 2
+  |X |  |
+O |O |  |
+  |  |X |
+Enter player O :1 2
+  |X |  |
+O |O |O |
+  |  |X |
+Player O won, game over.
+If yoy want to play again Press 0 or press anything to Exit :2
+Game End.

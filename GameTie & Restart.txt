@@ -1,0 +1,61 @@
+If you want to select your own Players Enter Yes : y
+Choose Player 1 : Charan
+Choose Player 2 : Teja
+Player 1 is 'Charan' & Player 2 is 'Teja'
+Who want's to start first
+Choose 1 if Player 1 want's to start first or Choose 2 if Player 2 want's to play first : 
+2
+Player 2 is starting the game
+Start the Game!!!
+       |       |       |
+       |       |       |
+       |       |       |
+Enter player Teja :0 0
+Teja   |       |       |
+       |       |       |
+       |       |       |
+Enter player Charan :0 1
+Teja   |Charan |       |
+       |       |       |
+       |       |       |
+Enter player Teja :0 2
+Teja   |Charan |Teja   |
+       |       |       |
+       |       |       |
+Enter player Charan :2 2
+Teja   |Charan |Teja   |
+       |       |       |
+       |       |Charan |
+Enter player Teja :2 2
+Player Charan choosen this cell already choose another
+Teja   |Charan |Teja   |
+       |       |       |
+       |       |Charan |
+Enter player Teja :1 2
+Teja   |Charan |Teja   |
+       |       |Teja   |
+       |       |Charan |
+Enter player Charan :1 1
+Teja   |Charan |Teja   |
+       |Charan |Teja   |
+       |       |Charan |
+Enter player Teja :2 1
+Teja   |Charan |Teja   |
+       |Charan |Teja   |
+       |Teja   |Charan |
+Enter player Charan :1 0
+Teja   |Charan |Teja   |
+Charan |Charan |Teja   |
+       |Teja   |Charan |
+Enter player Teja :2 0
+Teja   |Charan |Teja   |
+Charan |Charan |Teja   |
+Teja   |Teja   |Charan |
+Game Tie
+If yoy want to restart Press 0 or Press anything to End and Exit :0
+The game restarted, Start Playing
+Start the Game!!!
+       |       |       |
+       |       |       |
+       |       |       |
+Enter player Charan :
